@@ -10,5 +10,4 @@ import org.junit.platform.suite.api.Suite;
         ProductStockTest.class
 })
 public class ProductStockSuite {
-
 }
